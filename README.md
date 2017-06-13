@@ -1,1 +1,1 @@
-# kkakademia.hu
+# kkakademia
