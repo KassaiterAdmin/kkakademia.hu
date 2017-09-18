@@ -5,7 +5,7 @@
         <div class="row color-bg">
             <div class="col-md-10 col-md-offset-1">
                 <h3>Aktuális programjaink</h3>
-                <p>Jelenleg nincs aktív hirdetés...</p>
+                <img class="center" src="img/kka_sznap2017.jpg" alt="plakat"/>
                 <h4>Korábbi programjaink:</h4>
                 <p>
                     Keresztény országértékelő - 2016 (<a href="img/orszagertekelo2016.png">plakát megtekintése</a>)
