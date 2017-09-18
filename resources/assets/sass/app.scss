@@ -4,6 +4,9 @@
 .awarded{
   margin-bottom: 10px;
 }
+.color-bg{
+  background-color: rgba(240,227,206,0.7);
+}
 body{
   background-color: #EDE6D9;
   background-image: url('img/texture.jpg');
@@ -28,7 +31,7 @@ body{
   width: calc(100% - 100px);
 }
 .title > h3{
-  margin-top: 0px;
+  margin-top: 0;
 }
 .image{
   text-align: center;
@@ -68,7 +71,7 @@ body{
   float: left;
   font-size: 20px;
   font-weight: bold;
-  margin: 0px;
+  margin: 0;
   text-align: center;
   vertical-align: middle;
 }
@@ -90,4 +93,8 @@ footer{
 
 .created{
   text-align:right;
+}
+
+.navbar{
+  margin: 0;
 }
