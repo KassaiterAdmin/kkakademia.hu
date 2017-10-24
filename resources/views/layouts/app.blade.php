@@ -44,6 +44,7 @@
                         <li><a href="/palyazat">Pályázataink</a></li>
                         <li><a href="/jelentesek">Jelentések</a></li>
                         <li><a href="/kapcsolat">Kapcsolat</a></li>
+                        <li><a href="/erkolcstan">Ifjúsági Erkölcstan</a></li>
                     </ul>
 
                     <!-- Right Side Of Navbar -->

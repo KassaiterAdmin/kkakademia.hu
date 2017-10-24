@@ -32,6 +32,9 @@ Route::get('/jelentesek', function () {
 Route::get('/kapcsolat', function () {
     return view('pages.kapcsolat');
 });
+Route::get('/erkolcstan', function () {
+    return view('pages.erkolcstan');
+});
 
 Auth::routes();
 
