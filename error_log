@@ -1,0 +1,6 @@
+[18-Sep-2017 22:24:51 Europe/Budapest] PHP Warning:  require(/home/sgohehrx/kkakademia.hu/vendor/autoload.php): failed to open stream: No such file or directory in /home/sgohehrx/kkakademia.hu/artisan on line 18
+[18-Sep-2017 22:24:51 Europe/Budapest] PHP Fatal error:  require(): Failed opening required '/home/sgohehrx/kkakademia.hu/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sgohehrx/kkakademia.hu/artisan on line 18
+[18-Sep-2017 22:27:30 Europe/Budapest] PHP Warning:  require(/home/sgohehrx/kkakademia.hu/vendor/autoload.php): failed to open stream: No such file or directory in /home/sgohehrx/kkakademia.hu/artisan on line 18
+[18-Sep-2017 22:27:30 Europe/Budapest] PHP Fatal error:  require(): Failed opening required '/home/sgohehrx/kkakademia.hu/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sgohehrx/kkakademia.hu/artisan on line 18
+[18-Sep-2017 22:27:34 Europe/Budapest] PHP Warning:  require(/home/sgohehrx/kkakademia.hu/vendor/autoload.php): failed to open stream: No such file or directory in /home/sgohehrx/kkakademia.hu/artisan on line 18
+[18-Sep-2017 22:27:34 Europe/Budapest] PHP Fatal error:  require(): Failed opening required '/home/sgohehrx/kkakademia.hu/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/sgohehrx/kkakademia.hu/artisan on line 18
