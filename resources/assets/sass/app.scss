@@ -13,6 +13,13 @@ body{
   background-repeat: repeat;
   background-attachment: scroll;
   background-position: top left;
+
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 23px;
 }
 .icon{
   width: 100px;
@@ -100,7 +107,7 @@ footer{
 }
 
 h1 {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 23px;
   font-style: normal;
   font-variant: normal;
@@ -109,7 +116,7 @@ h1 {
   padding-top: 10px;
 }
 h2 {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
@@ -118,7 +125,7 @@ h2 {
   padding-top: 10px;
 }
 h3 {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 17px;
   font-style: normal;
   font-variant: normal;
@@ -127,7 +134,7 @@ h3 {
   padding-top: 10px;
 }
 p {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -135,7 +142,7 @@ p {
   line-height: 23px;
 }
 a {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 14px;
   font-style: normal;
   font-variant: normal;
@@ -143,7 +150,7 @@ a {
   line-height: 23px;
 }
 blockquote {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
   font-size: 17px;
   font-style: normal;
   font-variant: normal;
@@ -151,8 +158,16 @@ blockquote {
   line-height: 23px;
 }
 pre {
-  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
-  font-size: 11px;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 23px;
+}
+em {
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif !important;
+  font-size: 14px;
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
@@ -193,4 +208,14 @@ pre {
   color: #73411c !important;
   text-decoration: none;
   padding: 0 5px;
+}
+.bev{
+  list-style-type:none;
+  margin-bottom: 0 !important;
+}
+.bev li:before {
+  content: 'Bevezető ';
+}
+.bev li{
+  margin-left: -1em;
 }
