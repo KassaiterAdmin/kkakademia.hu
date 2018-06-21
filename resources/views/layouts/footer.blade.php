@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-sm-4 col-lg-4">
+            <div class="col-sm-3 col-lg-3">
                 <h3>Elérhetőségeink</h3>
                 <address>
                     <strong>Keresztény Kulturális Akadémia Alapítvány</strong>
@@ -10,13 +10,19 @@
                     <i class="glyphicon glyphicon-envelope"></i> info@kkakademia.hu
                 </p>
             </div>
-            <div class="col-sm-4 col-lg-4">
-                <h3>Fő támogatónk:</h3>
+            <div class="col-sm-3 col-lg-3">
+                <h3>Fő támogatóink:</h3>
                 <p class="image">
                     <img class="sponsor" src="img/MMAlogo.png">
                 </p>
             </div>
-            <div class="col-sm-4 col-lg-4">
+            <div class="col-sm-3 col-lg-3">
+                <h3> </h3>
+                <p class="image">
+                    <img class="sponsor" src="img/EEM.png">
+                </p>
+            </div>
+            <div class="col-sm-3 col-lg-3">
                 <h3>Hasznos linkek</h3>
                 <ul class="link-list">
                     <li><a href="http://uj.katolikus.hu/">Magyar Katolikus Egyház</a></li>

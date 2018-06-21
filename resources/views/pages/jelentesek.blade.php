@@ -18,8 +18,10 @@
                     <br><br>
                 </p>
                 <p>
-                    <a href="doc/KKA2015.pdf">A kettős könyvvitelt vezető egyéb szervezet egyszerűsített beszámolója és közhasznúsági melléklete</a><br><br>
-                    <a href="doc/merleg2016.pdf">Egyszerüsített Közhasznúsági éves jelentés - 2016</a><br>
+                    Éves Beszámolók:
+                    <a href="doc/beszamolo2017.pdf">2017</a> | 
+                    <a href="doc/merleg2016.pdf">2016</a> | 
+                    <a href="doc/KKA2015.pdf">2015</a>
                 </p>
             </div>
         </div>

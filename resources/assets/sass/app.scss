@@ -9,7 +9,7 @@
 }
 body{
   background-color: #EDE6D9;
-  background-image: url('img/texture.png');
+  background-image: url('images/texture.png');
   background-repeat: repeat;
   background-attachment: scroll;
   background-position: top left;
@@ -50,7 +50,7 @@ body{
 .navbar-nav{
   li:not(:first-of-type) {
     border-left: 1px solid #f0e3ce;
-  },
+  }
   li{
     a{
       font-weight: 800;
@@ -61,6 +61,7 @@ body{
     }
   }
 }
+
 .dropdown-menu{
   li{
     a{
